@@ -3,7 +3,6 @@
 # Schule :
 Technologisches Gewerbemuseum Höhere technische Bundeslehr- und Versuchsanstalt WIEN (20)
 # Abteilung Elektronik
-# AV Hauptverantwortlich: Bernhard Wess
 # Abschließende Prüfung 2019
 # Betreuer/innen:
 Hauptverantwortlich: Dipl. -Ing Gerhard Vitovec
